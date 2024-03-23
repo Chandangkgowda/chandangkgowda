@@ -3,6 +3,8 @@ here ill practice all my html css js code
 <!--
 
 update 2 
+
+update 3
 **Chandangkgowda/chandangkgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
